@@ -9,7 +9,7 @@ The django-cadastre-api is a Django application that provides an API for working
 1. Clone the repository:
 
     ```bash
-    git clone <repository URL>
+    git clone https://github.com/DOGERAZ/django-cadastre-api
     ```
 
 2. Create and activate a virtual environment:
